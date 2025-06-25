@@ -8,9 +8,9 @@ I'm a passionate backend developer with a strong foundation in **Java**, **distr
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishad1999&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishad1999&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=nishad1999&theme=tokyonight&border_radius=5.5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishad-rohit&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishad-rohit&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nishad-rohit&theme=tokyonight&border_radius=5.5)
 
 ---
 
