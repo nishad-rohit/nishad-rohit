@@ -1,10 +1,9 @@
 # 👋 Hey there, I'm Rohit Nishad
 
-🚀 **Backend Engineer** | 💻 **Java Microservices Expert** | ☁️ **Cloud-Native Enthusiast**
+🚀 Backend Engineer | ☕ Java Microservices Specialist | ☁️ Cloud-Native Developer
 
-I'm a passionate backend developer with a strong foundation in **Java**, **distributed microservices architecture**, and **cloud-native development**. I love solving real-world engineering problems at scale and building robust backend services.
+I'm a backend developer passionate about building scalable, secure, and high-performance systems.
 
----
 
 ## 📊 GitHub Stats
 
