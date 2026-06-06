@@ -7,10 +7,13 @@ I'm a backend developer passionate about building scalable, secure, and high-per
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishad-rohit&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishad-rohit&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishad-rohit&theme=tokyonight&border_radius=5.5)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishad-rohit&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishad-rohit&show_icons=true&theme=tokyonight" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishad-rohit&theme=tokyonight&border_radius=5.5" />
+</p>
 
 ## 🛠️ Tech Stack & Tools
 
